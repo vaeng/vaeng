@@ -3,16 +3,16 @@
 
 - 🔭 I’m currently working on [Python bindings for control system automation](https://github.com/ChimeraTK/DeviceAccess-PythonBindings)
 
-- 🌱 I’m currently learning **12 new programming languages in 2023 for #12in23**
+- 🌱 I’m currently learning [12 new programming languages in 2023 for #12in23](https://exercism.org/challenges/12in23)
 
-- 🤝 I’m looking for help with [the cpp teaching track on exercism](https://github.com/exercism/cpp)
+- 🤝 I’m looking for help with [the CPP teaching track on Exercism](https://github.com/exercism/cpp)
 
-- 💬 Ask me about **functional programming and advent of code**
+- 💬 Ask me about **functional programming and [Advent of Code](https://adventofcode.com/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/vaeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaeng" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/christian-willner" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="christian-willner" height="30" width="40" /></a>
+<a href="https://dev.to/vaeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vaeng" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/vaeng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="vaeng" height="30" width="40" /></a>
 </p>
 
